@@ -1,0 +1,1332 @@
+/* screen - ac-change-role */
+
+.ac-change-role {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 1080px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.ac-change-role .overlap-group24 {
+  height: 1109px;
+  position: relative;
+}
+
+.ac-change-role .overlap-group21 {
+  height: 955px;
+  left: 0;
+  position: absolute;
+  top: 145px;
+  width: 1920px;
+}
+
+.ac-change-role .rectangle-63 {
+  background: linear-gradient(107.34deg, rgba(126, 198, 176, 0.44) -13.73%, rgba(126, 198, 176, 0) 113.52%);
+  height: 946px;
+  left: 0;
+  position: absolute;
+  top: 9px;
+  width: 1920px;
+}
+
+.ac-change-role .rectangle-31 {
+  background-color: var(--white);
+  height: 944px;
+  left: 194px;
+  position: absolute;
+  top: 0;
+  width: 1526px;
+}
+
+.ac-change-role .place {
+  left: 335px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 177px;
+  white-space: nowrap;
+}
+
+.ac-change-role .status {
+  left: 682px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 177px;
+  white-space: nowrap;
+}
+
+.ac-change-role .place-1 {
+  left: 820px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 177px;
+  white-space: nowrap;
+}
+
+.ac-change-role .configurations {
+  left: 999px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 177px;
+  white-space: nowrap;
+}
+
+.ac-change-role .path-37 {
+  height: 1px;
+  left: 249px;
+  object-fit: cover;
+  position: absolute;
+  top: 216px;
+  width: 1223px;
+}
+
+.ac-change-role .name-lastname {
+  left: 335px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 223px;
+  white-space: nowrap;
+}
+
+.ac-change-role .namelastnamecompanyemailcom {
+  left: 335px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 254px;
+  white-space: nowrap;
+}
+
+.ac-change-role .admin {
+  left: 682px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 240px;
+  white-space: nowrap;
+}
+
+.ac-change-role .full-library {
+  left: 813px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 240px;
+  white-space: nowrap;
+}
+
+.ac-change-role .full-library-1 {
+  left: 813px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 324px;
+  white-space: nowrap;
+}
+
+.ac-change-role .limited {
+  left: 813px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 408px;
+  white-space: nowrap;
+}
+
+.ac-change-role .limited-1 {
+  left: 813px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 576px;
+  white-space: nowrap;
+}
+
+.ac-change-role .edit {
+  left: 905px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 408px;
+  white-space: nowrap;
+}
+
+.ac-change-role .edit-1 {
+  left: 905px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 324px;
+  white-space: nowrap;
+}
+
+.ac-change-role .edit-2 {
+  left: 905px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 492px;
+  white-space: nowrap;
+}
+
+.ac-change-role .edit-3 {
+  left: 905px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 576px;
+  white-space: nowrap;
+}
+
+.ac-change-role .full-library-2 {
+  left: 813px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 492px;
+  white-space: nowrap;
+}
+
+.ac-change-role .path-36 {
+  height: 1px;
+  left: 249px;
+  object-fit: cover;
+  position: absolute;
+  top: 293px;
+  width: 1223px;
+}
+
+.ac-change-role .name-lastname-1 {
+  left: 335px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 307px;
+  white-space: nowrap;
+}
+
+.ac-change-role .namelastnamecompanyemailcom-1 {
+  left: 335px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 338px;
+  white-space: nowrap;
+}
+
+.ac-change-role .user {
+  left: 682px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 324px;
+  white-space: nowrap;
+}
+
+.ac-change-role .line-2 {
+  height: 1px;
+  left: 249px;
+  object-fit: cover;
+  position: absolute;
+  top: 377px;
+  width: 1223px;
+}
+
+.ac-change-role .name-lastname-2 {
+  left: 335px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 391px;
+  white-space: nowrap;
+}
+
+.ac-change-role .namelastnamecompanyemailcom-2 {
+  left: 335px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 422px;
+  white-space: nowrap;
+}
+
+.ac-change-role .client {
+  left: 682px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 408px;
+  white-space: nowrap;
+}
+
+.ac-change-role .line-2-1 {
+  height: 1px;
+  left: 249px;
+  object-fit: cover;
+  position: absolute;
+  top: 461px;
+  width: 1223px;
+}
+
+.ac-change-role .name-lastname-3 {
+  left: 335px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 475px;
+  white-space: nowrap;
+}
+
+.ac-change-role .namelastnamecompanyemailcom-3 {
+  left: 335px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 506px;
+  white-space: nowrap;
+}
+
+.ac-change-role .user-1 {
+  left: 682px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 492px;
+  white-space: nowrap;
+}
+
+.ac-change-role .line-2-2 {
+  height: 1px;
+  left: 249px;
+  object-fit: cover;
+  position: absolute;
+  top: 545px;
+  width: 1223px;
+}
+
+.ac-change-role .name-lastname-4 {
+  left: 335px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 559px;
+  white-space: nowrap;
+}
+
+.ac-change-role .namelastnamecompanyemailcom-4 {
+  left: 335px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 590px;
+  white-space: nowrap;
+}
+
+.ac-change-role .client-1 {
+  left: 682px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 576px;
+  white-space: nowrap;
+}
+
+.ac-change-role .reset-password {
+  height: 354px;
+  left: 1022px;
+  position: absolute;
+  top: 249px;
+  width: 118px;
+}
+
+.ac-change-role .reset-password-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: -9px;
+  white-space: nowrap;
+}
+
+.ac-change-role .reset-password-2 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 75px;
+  white-space: nowrap;
+}
+
+.ac-change-role .reset-password-3 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 159px;
+  white-space: nowrap;
+}
+
+.ac-change-role .reset-password-4 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 243px;
+  white-space: nowrap;
+}
+
+.ac-change-role .reset-password-5 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 327px;
+  white-space: nowrap;
+}
+
+.ac-change-role .change-role {
+  height: 354px;
+  left: 1194px;
+  position: absolute;
+  top: 249px;
+  width: 93px;
+}
+
+.ac-change-role .change-role-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: -9px;
+  white-space: nowrap;
+}
+
+.ac-change-role .change-role-2 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 75px;
+  white-space: nowrap;
+}
+
+.ac-change-role .change-role-3 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 159px;
+  white-space: nowrap;
+}
+
+.ac-change-role .change-role-4 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 243px;
+  white-space: nowrap;
+}
+
+.ac-change-role .change-role-5 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 327px;
+  white-space: nowrap;
+}
+
+.ac-change-role .delete-member {
+  height: 354px;
+  left: 1342px;
+  position: absolute;
+  top: 249px;
+  width: 88px;
+}
+
+.ac-change-role .delete-user {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: -9px;
+  white-space: nowrap;
+}
+
+.ac-change-role .delete-user-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 75px;
+  white-space: nowrap;
+}
+
+.ac-change-role .delete-user-2 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 159px;
+  white-space: nowrap;
+}
+
+.ac-change-role .delete-user-3 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 243px;
+  white-space: nowrap;
+}
+
+.ac-change-role .delete-user-4 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 327px;
+  white-space: nowrap;
+}
+
+.ac-change-role .line-2-3 {
+  height: 1px;
+  left: 249px;
+  object-fit: cover;
+  position: absolute;
+  top: 629px;
+  width: 1223px;
+}
+
+.ac-change-role .polygon-2 {
+  height: 11px;
+  left: 385px;
+  object-fit: cover;
+  position: absolute;
+  top: 191px;
+  width: 13px;
+}
+
+.ac-change-role .polygon-3 {
+  height: 11px;
+  left: 738px;
+  object-fit: cover;
+  position: absolute;
+  top: 191px;
+  width: 13px;
+}
+
+.ac-change-role .polygon-4 {
+  height: 11px;
+  left: 879px;
+  object-fit: cover;
+  position: absolute;
+  top: 191px;
+  width: 13px;
+}
+
+.ac-change-role .group-70 {
+  height: 64px;
+  left: 254px;
+  position: absolute;
+  top: 76px;
+  width: 284px;
+}
+
+.ac-change-role .search-members-from-the-list {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  opacity: 0.15;
+  position: absolute;
+  top: 34px;
+  white-space: nowrap;
+}
+
+.ac-change-role .search-members {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: -9px;
+  white-space: nowrap;
+}
+
+.ac-change-role .line-7 {
+  height: 15px;
+  left: 896px;
+  object-fit: cover;
+  position: absolute;
+  top: 334px;
+  width: 1px;
+}
+
+.ac-change-role .line-8 {
+  height: 15px;
+  left: 896px;
+  object-fit: cover;
+  position: absolute;
+  top: 418px;
+  width: 1px;
+}
+
+.ac-change-role .line-9 {
+  height: 15px;
+  left: 896px;
+  object-fit: cover;
+  position: absolute;
+  top: 502px;
+  width: 1px;
+}
+
+.ac-change-role .line-10 {
+  height: 15px;
+  left: 896px;
+  object-fit: cover;
+  position: absolute;
+  top: 586px;
+  width: 1px;
+}
+
+.ac-change-role .admin-console {
+  left: 252px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 38px;
+  white-space: nowrap;
+}
+
+.ac-change-role .rectangle-44 {
+  height: 385px;
+  left: 991px;
+  object-fit: cover;
+  position: absolute;
+  top: 238px;
+  width: 446px;
+}
+
+.ac-change-role .rectangle-45 {
+  height: 298px;
+  left: 901px;
+  object-fit: cover;
+  position: absolute;
+  top: 319px;
+  width: 39px;
+}
+
+.ac-change-role .rectangle-48 {
+  height: 73px;
+  left: 1494px;
+  object-fit: cover;
+  position: absolute;
+  top: 92px;
+  width: 212px;
+}
+
+.ac-change-role .path-35 {
+  height: 40px;
+  left: 249px;
+  object-fit: cover;
+  position: absolute;
+  top: 110px;
+  width: 1224px;
+}
+
+.ac-change-role .overlap-group1 {
+  height: 44px;
+  left: 1507px;
+  position: absolute;
+  top: 108px;
+  width: 185px;
+}
+
+.ac-change-role .invite-new-member {
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  white-space: nowrap;
+}
+
+.ac-change-role .overlap-group-1 {
+  height: 44px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 185px;
+}
+
+.ac-change-role .rectangle-19-1 {
+  height: 36px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 178px;
+}
+
+.ac-change-role .path-25-1 {
+  height: 34px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 176px;
+}
+
+.ac-change-role .group-230-1 {
+  height: 16px;
+  left: 1000px;
+  position: absolute;
+  top: 253px;
+  transform: rotate(75.00deg);
+  width: 16px;
+}
+
+.ac-change-role .path-38 {
+  height: 19px;
+  left: -2px;
+  object-fit: cover;
+  position: absolute;
+  top: -2px;
+  transform: rotate(-75.00deg);
+  width: 19px;
+}
+
+.ac-change-role .group-229-1 {
+  height: 16px;
+  left: 999px;
+  position: absolute;
+  top: 252px;
+  transform: rotate(75.00deg);
+  width: 16px;
+}
+
+.ac-change-role .group-container {
+  height: 20px;
+  left: 997px;
+  position: absolute;
+  top: 333px;
+  width: 20px;
+}
+
+.ac-change-role .group-230 {
+  height: 16px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  transform: rotate(75.00deg);
+  width: 16px;
+}
+
+.ac-change-role .group-229 {
+  height: 16px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  transform: rotate(75.00deg);
+  width: 16px;
+}
+
+.ac-change-role .group-container-1 {
+  height: 20px;
+  left: 997px;
+  position: absolute;
+  top: 415px;
+  width: 20px;
+}
+
+.ac-change-role .group-container-2 {
+  height: 20px;
+  left: 997px;
+  position: absolute;
+  top: 500px;
+  width: 20px;
+}
+
+.ac-change-role .group-container-3 {
+  height: 20px;
+  left: 997px;
+  position: absolute;
+  top: 584px;
+  width: 20px;
+}
+
+.ac-change-role .overlap-group6 {
+  height: 19px;
+  left: 1168px;
+  position: absolute;
+  top: 249px;
+  width: 19px;
+}
+
+.ac-change-role .group-236 {
+  background-image: url(../img/path-39-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.ac-change-role .path-39 {
+  height: 19px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 19px;
+}
+
+.ac-change-role .overlap-group7 {
+  height: 19px;
+  left: 1168px;
+  position: absolute;
+  top: 332px;
+  width: 19px;
+}
+
+.ac-change-role .overlap-group8 {
+  height: 19px;
+  left: 1168px;
+  position: absolute;
+  top: 416px;
+  width: 19px;
+}
+
+.ac-change-role .overlap-group9 {
+  height: 19px;
+  left: 1168px;
+  position: absolute;
+  top: 500px;
+  width: 19px;
+}
+
+.ac-change-role .overlap-group10 {
+  height: 19px;
+  left: 1168px;
+  position: absolute;
+  top: 584px;
+  width: 19px;
+}
+
+.ac-change-role .overlap-group11 {
+  height: 17px;
+  left: 1319px;
+  position: absolute;
+  top: 249px;
+  width: 17px;
+}
+
+.ac-change-role .ellipse-6 {
+  background-color: var(--sunset-pearl);
+  border-radius: 7.5px;
+  height: 15px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 15px;
+}
+
+.ac-change-role .group-242 {
+  background-image: url(../img/path-40-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 16px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 16px;
+}
+
+.ac-change-role .path-41 {
+  height: 6px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 6px;
+}
+
+.ac-change-role .overlap-group12 {
+  height: 17px;
+  left: 1319px;
+  position: absolute;
+  top: 333px;
+  width: 17px;
+}
+
+.ac-change-role .overlap-group13 {
+  height: 17px;
+  left: 1319px;
+  position: absolute;
+  top: 417px;
+  width: 17px;
+}
+
+.ac-change-role .overlap-group14 {
+  height: 17px;
+  left: 1319px;
+  position: absolute;
+  top: 501px;
+  width: 17px;
+}
+
+.ac-change-role .overlap-group15 {
+  height: 17px;
+  left: 1319px;
+  position: absolute;
+  top: 585px;
+  width: 17px;
+}
+
+.ac-change-role .overlap-group16 {
+  height: 21px;
+  left: 275px;
+  position: absolute;
+  top: 243px;
+  width: 21px;
+}
+
+.ac-change-role .ellipse-2 {
+  background-color: var(--athens-gray);
+  border-radius: 4.56px;
+  height: 9px;
+  left: 5px;
+  position: absolute;
+  top: 0;
+  width: 9px;
+}
+
+.ac-change-role .path-54 {
+  height: 10px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 19px;
+}
+
+.ac-change-role .ellipse-3 {
+  border-radius: 4.56px;
+  height: 11px;
+  left: 5px;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.ac-change-role .path-55 {
+  height: 12px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 21px;
+}
+
+.ac-change-role .overlap-group17 {
+  height: 21px;
+  left: 275px;
+  position: absolute;
+  top: 323px;
+  width: 21px;
+}
+
+.ac-change-role .overlap-group18 {
+  height: 21px;
+  left: 275px;
+  position: absolute;
+  top: 411px;
+  width: 21px;
+}
+
+.ac-change-role .overlap-group19 {
+  height: 21px;
+  left: 275px;
+  position: absolute;
+  top: 491px;
+  width: 21px;
+}
+
+.ac-change-role .overlap-group20 {
+  height: 21px;
+  left: 275px;
+  position: absolute;
+  top: 579px;
+  width: 21px;
+}
+
+.ac-change-role .component-4-10 {
+  height: 153px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.ac-change-role .overlap-group22 {
+  height: 154px;
+  position: relative;
+  width: 1921px;
+}
+
+.ac-change-role .overlap-group-2 {
+  background-color: var(--white);
+  height: 154px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1921px;
+}
+
+.ac-change-role .group-47 {
+  background-image: url(../img/mask-group-2-16@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 62px;
+  left: 139px;
+  position: relative;
+  top: 51px;
+  width: 279px;
+}
+
+.ac-change-role .full-name {
+  left: 1700px;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  top: 72px;
+  white-space: nowrap;
+}
+
+.ac-change-role .overlap-group1-1 {
+  height: 21px;
+  left: 1668px;
+  position: absolute;
+  top: 69px;
+  width: 21px;
+}
+
+.ac-change-role .path-90 {
+  height: 20px;
+  left: 1578px;
+  object-fit: cover;
+  position: absolute;
+  top: 70px;
+  width: 20px;
+}
+
+.ac-change-role .group-128 {
+  background-color: #262c5772;
+  border: 1px solid #70707072;
+  height: 1109px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.ac-change-role .overlap-group23 {
+  border-radius: 11px;
+  height: 549px;
+  left: 628px;
+  position: absolute;
+  top: 266px;
+  width: 665px;
+}
+
+.ac-change-role .group-125 {
+  background-color: var(--white);
+  border-radius: 11px;
+  height: 549px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 665px;
+}
+
+.ac-change-role .change-role-6 {
+  left: 80px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 28px;
+  white-space: nowrap;
+}
+
+.ac-change-role .group-container-4 {
+  height: 131px;
+  left: 77px;
+  position: absolute;
+  top: 179px;
+  width: 522px;
+}
+
+.ac-change-role .group-130 {
+  height: 55px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 522px;
+}
+
+.ac-change-role .group-61 {
+  height: 42px;
+  left: 42px;
+  position: absolute;
+  top: 0;
+  width: 326px;
+}
+
+.ac-change-role .admin-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: -7px;
+  white-space: nowrap;
+}
+
+.ac-change-role .manage-users-and-per {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 17px;
+  white-space: nowrap;
+}
+
+.ac-change-role .path-46 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 55px;
+  width: 522px;
+}
+
+.ac-change-role .group-131 {
+  height: 121px;
+  left: 0;
+  position: absolute;
+  top: 10px;
+  width: 522px;
+}
+
+.ac-change-role .repeat-grid-2 {
+  height: 55px;
+  left: 0;
+  position: absolute;
+  top: 66px;
+  width: 522px;
+}
+
+.ac-change-role .group-61-1 {
+  height: 42px;
+  left: 42px;
+  position: absolute;
+  top: 0;
+  width: 424px;
+}
+
+.ac-change-role .user-2 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: -7px;
+  white-space: nowrap;
+}
+
+.ac-change-role .grants-access-to-the {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 17px;
+  white-space: nowrap;
+}
+
+.ac-change-role .line-2-4 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 55px;
+  width: 522px;
+}
+
+.ac-change-role .ellipse-container {
+  height: 26px;
+  left: 4px;
+  position: absolute;
+  top: 0;
+  width: 26px;
+}
+
+.ac-change-role .ellipse-4 {
+  background-color: var(--athens-gray);
+  border-radius: 11.81px;
+  height: 24px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 24px;
+}
+
+.ac-change-role .ellipse-5 {
+  border-radius: 11.81px;
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.ac-change-role .overlap-group1-2 {
+  height: 55px;
+  left: 77px;
+  position: absolute;
+  top: 331px;
+  width: 522px;
+}
+
+.ac-change-role .repeat-grid-2-1 {
+  height: 55px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 522px;
+}
+
+.ac-change-role .group-61-2 {
+  height: 42px;
+  left: 42px;
+  position: absolute;
+  top: 0;
+  width: 446px;
+}
+
+.ac-change-role .client-2 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: -7px;
+  white-space: nowrap;
+}
+
+.ac-change-role .grants-access-to-a-l {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 17px;
+  white-space: nowrap;
+}
+
+.ac-change-role .path-47 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 55px;
+  width: 522px;
+}
+
+.ac-change-role .ellipse-container-1 {
+  height: 26px;
+  left: 4px;
+  position: absolute;
+  top: 12px;
+  width: 26px;
+}
+
+.ac-change-role .by-changing-the-role {
+  height: 75px;
+  left: 80px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 65px;
+  width: 508px;
+}
+
+.ac-change-role .span1 {
+  color: var(--cloud-burst);
+  font-family: var(--font-family-worksans-medium);
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+}
+
+.ac-change-role .overlap-group3 {
+  height: 51px;
+  left: 339px;
+  position: absolute;
+  top: 441px;
+  width: 137px;
+}
+
+.ac-change-role .change-role-7 {
+  left: 24px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  white-space: nowrap;
+}
+
+.ac-change-role .overlap-group {
+  height: 51px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 137px;
+}
+
+.ac-change-role .rectangle-19 {
+  height: 41px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 128px;
+}
+
+.ac-change-role .path-25 {
+  height: 39px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 126px;
+}
+
+.ac-change-role .overlap-group4 {
+  height: 51px;
+  left: 189px;
+  position: absolute;
+  top: 441px;
+  width: 137px;
+}
+
+.ac-change-role .cancel {
+  left: 43px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  white-space: nowrap;
+}

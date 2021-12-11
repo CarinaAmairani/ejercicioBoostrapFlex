@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1920, maximum-scale=1.0" />
+    <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/log-in-desktop.css" />
+    <link rel="stylesheet" type="text/css" href="css/styleguide.css" />
+    <link rel="stylesheet" type="text/css" href="css/globals.css" />
+  </head>
+  <body style="margin: 0; background: #ffffff">
+    <input type="hidden" id="anPageName" name="page" value="log-in-desktop" />
+    <div class="container-center-horizontal">
+      <div class="log-in-desktop screen">
+        <div class="overlap-group4">
+          <div class="uploadsfiles2411109-red-hotel-2"></div>
+          <div class="uploadsfiles2411109-red-hotel-2-1"></div>
+          <div class="uploadsfiles2411109-red-hotel-2-2"></div>
+          <div class="overlap-group1">
+            <div class="rectangle-1"></div>
+            <div class="component-4-3">
+              <div class="overlap-group">
+                <div class="group-47"></div>
+              </div>
+            </div>
+          </div>
+          <div class="login animate-enter" show-on-scroll>
+            <div class="overlap-group3">
+              <div class="overlap-group1-1">
+                <div class="overlap-group-1">
+                  <div class="email">Email</div>
+                  <h1 class="title">E-Comm Library</h1>
+                  <div class="password">Password</div>
+                  <img class="path-27" src="img/path-26@1x.png" />
+                </div>
+                <img class="path-26" src="img/path-26@1x.png" />
+              </div>
+              <a href="search-result-page.html">
+                <div class="sing-in-button smart-layers-pointers">
+                  <div class="overlap-group2">
+                    <div class="sign-in">SIGN IN</div>
+                    <div class="overlap-group-2">
+                      <div class="rectangle-19"></div>
+                      <img class="path-25" src="img/path-25@1x.png" />
+                    </div>
+                  </div></div></a
+              ><input
+                class="helloshopperfactscom"
+                name="helloshopperfactscom2"
+                placeholder="hello@shopperfacts.co"
+                type="email"
+                required
+              /><input class="password-1" name="password3" placeholder="password" type="password" required />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script>
+      function ShowOnScroll() {
+        this.toShow = [];
+        this.nextEventY = undefined;
+      }
+
+      ShowOnScroll.prototype.show = function (e) {
+        e.style.display = "";
+      };
+
+      ShowOnScroll.prototype.hide = function (e) {
+        e.style.display = "none";
+      };
+
+      ShowOnScroll.prototype.getTop = function (e) {
+        if (e.Top != undefined && e.Top != 0) {
+          return e.Top;
+        }
+        var top = 0;
+        var iter = e;
+        do {
+          top += iter.offsetTop || 0;
+          iter = iter.offsetParent;
+        } while (iter);
+        e.Top = top;
+        return top;
+      };
+
+      ShowOnScroll.prototype.onScroll = function () {
+        var screenBottom = window.pageYOffset + window.innerHeight;
+        if (this.nextEventY == undefined || this.nextEventY > screenBottom) {
+          return;
+        }
+        this.nextEventY = undefined;
+        for (var i = 0; i < this.toShow.length; i++) {
+          var e = this.toShow[i];
+          var top = this.getTop(e);
+          if (top < screenBottom) {
+            this.show(e);
+            this.toShow.shift();
+            i--;
+          } else {
+            this.nextEventY = top;
+            break;
+          }
+        }
+      };
+
+      ShowOnScroll.prototype.resetScrolling = function () {
+        // Clear state
+        var screenBottom = window.pageYOffset + window.innerHeight;
+        for (var i = 0; i < this.toShow.length; i++) {
+          var e = this.toShow[i];
+          this.show(e);
+        }
+        this.toShow = [];
+        this.nextEventY == undefined;
+
+        // Collect items
+        var itemsToShowOnScroll = Array.prototype.slice.call(document.getElementsByTagName("*"));
+        itemsToShowOnScroll = itemsToShowOnScroll.filter(function (e) {
+          return e.getAttribute("show-on-scroll") != undefined;
+        });
+        var getTop = this.getTop;
+        itemsToShowOnScroll.sort(function (a, b) {
+          return getTop(a) - getTop(b);
+        });
+        for (var i = 0; i < itemsToShowOnScroll.length; i++) {
+          var e = itemsToShowOnScroll[i];
+          var top = this.getTop(e);
+          if (top < screenBottom) {
+            continue;
+          }
+          this.toShow.push(e);
+          this.hide(e);
+          this.nextEventY = this.nextEventY != undefined ? this.nextEventY : top;
+        }
+      };
+
+      ShowOnScroll.prototype.handleEvent = function (e) {
+        switch (e.type) {
+          case "scroll":
+            this.onScroll();
+            break;
+          case "resize":
+            this.resetScrolling();
+            break;
+        }
+      };
+
+      ShowOnScroll.prototype.init = function () {
+        this.resetScrolling();
+        window.addEventListener("scroll", this);
+        window.addEventListener("resize", this);
+      };
+
+      // After anima-src
+      setTimeout(function () {
+        var instShowOnScroll = new ShowOnScroll();
+        instShowOnScroll.init();
+      }, 250);
+    </script>
+  </body>
+</html>

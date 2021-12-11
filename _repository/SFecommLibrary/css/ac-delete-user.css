@@ -1,0 +1,1154 @@
+/* screen - ac-delete-user */
+
+.ac-delete-user {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 1080px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.ac-delete-user .overlap-group24 {
+  height: 1233px;
+  position: relative;
+}
+
+.ac-delete-user .overlap-group21 {
+  height: 955px;
+  left: 0;
+  position: absolute;
+  top: 145px;
+  width: 1920px;
+}
+
+.ac-delete-user .rectangle-63 {
+  background: linear-gradient(107.34deg, rgba(126, 198, 176, 0.44) -13.73%, rgba(126, 198, 176, 0) 113.52%);
+  height: 946px;
+  left: 0;
+  position: absolute;
+  top: 9px;
+  width: 1920px;
+}
+
+.ac-delete-user .rectangle-31 {
+  background-color: var(--white);
+  height: 944px;
+  left: 194px;
+  position: absolute;
+  top: 0;
+  width: 1526px;
+}
+
+.ac-delete-user .place {
+  left: 335px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 177px;
+  white-space: nowrap;
+}
+
+.ac-delete-user .status {
+  left: 682px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 177px;
+  white-space: nowrap;
+}
+
+.ac-delete-user .place-1 {
+  left: 820px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 177px;
+  white-space: nowrap;
+}
+
+.ac-delete-user .configurations {
+  left: 999px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 177px;
+  white-space: nowrap;
+}
+
+.ac-delete-user .path-37 {
+  height: 1px;
+  left: 249px;
+  object-fit: cover;
+  position: absolute;
+  top: 216px;
+  width: 1223px;
+}
+
+.ac-delete-user .name-lastname {
+  left: 335px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 223px;
+  white-space: nowrap;
+}
+
+.ac-delete-user .namelastnamecompanyemailcom {
+  left: 335px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 254px;
+  white-space: nowrap;
+}
+
+.ac-delete-user .admin {
+  left: 682px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 240px;
+  white-space: nowrap;
+}
+
+.ac-delete-user .full-library {
+  left: 813px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 240px;
+  white-space: nowrap;
+}
+
+.ac-delete-user .full-library-1 {
+  left: 813px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 324px;
+  white-space: nowrap;
+}
+
+.ac-delete-user .limited {
+  left: 813px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 408px;
+  white-space: nowrap;
+}
+
+.ac-delete-user .limited-1 {
+  left: 813px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 576px;
+  white-space: nowrap;
+}
+
+.ac-delete-user .edit {
+  left: 905px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 408px;
+  white-space: nowrap;
+}
+
+.ac-delete-user .edit-1 {
+  left: 905px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 324px;
+  white-space: nowrap;
+}
+
+.ac-delete-user .edit-2 {
+  left: 905px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 492px;
+  white-space: nowrap;
+}
+
+.ac-delete-user .edit-3 {
+  left: 905px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 576px;
+  white-space: nowrap;
+}
+
+.ac-delete-user .full-library-2 {
+  left: 813px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 492px;
+  white-space: nowrap;
+}
+
+.ac-delete-user .path-36 {
+  height: 1px;
+  left: 249px;
+  object-fit: cover;
+  position: absolute;
+  top: 293px;
+  width: 1223px;
+}
+
+.ac-delete-user .name-lastname-1 {
+  left: 335px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 307px;
+  white-space: nowrap;
+}
+
+.ac-delete-user .namelastnamecompanyemailcom-1 {
+  left: 335px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 338px;
+  white-space: nowrap;
+}
+
+.ac-delete-user .user {
+  left: 682px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 324px;
+  white-space: nowrap;
+}
+
+.ac-delete-user .line-2 {
+  height: 1px;
+  left: 249px;
+  object-fit: cover;
+  position: absolute;
+  top: 377px;
+  width: 1223px;
+}
+
+.ac-delete-user .name-lastname-2 {
+  left: 335px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 391px;
+  white-space: nowrap;
+}
+
+.ac-delete-user .namelastnamecompanyemailcom-2 {
+  left: 335px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 422px;
+  white-space: nowrap;
+}
+
+.ac-delete-user .client {
+  left: 682px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 408px;
+  white-space: nowrap;
+}
+
+.ac-delete-user .line-2-1 {
+  height: 1px;
+  left: 249px;
+  object-fit: cover;
+  position: absolute;
+  top: 461px;
+  width: 1223px;
+}
+
+.ac-delete-user .name-lastname-3 {
+  left: 335px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 475px;
+  white-space: nowrap;
+}
+
+.ac-delete-user .namelastnamecompanyemailcom-3 {
+  left: 335px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 506px;
+  white-space: nowrap;
+}
+
+.ac-delete-user .user-1 {
+  left: 682px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 492px;
+  white-space: nowrap;
+}
+
+.ac-delete-user .line-2-2 {
+  height: 1px;
+  left: 249px;
+  object-fit: cover;
+  position: absolute;
+  top: 545px;
+  width: 1223px;
+}
+
+.ac-delete-user .name-lastname-4 {
+  left: 335px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 559px;
+  white-space: nowrap;
+}
+
+.ac-delete-user .namelastnamecompanyemailcom-4 {
+  left: 335px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 590px;
+  white-space: nowrap;
+}
+
+.ac-delete-user .client-1 {
+  left: 682px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 576px;
+  white-space: nowrap;
+}
+
+.ac-delete-user .reset-password {
+  height: 354px;
+  left: 1022px;
+  position: absolute;
+  top: 249px;
+  width: 118px;
+}
+
+.ac-delete-user .reset-password-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: -9px;
+  white-space: nowrap;
+}
+
+.ac-delete-user .reset-password-2 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 75px;
+  white-space: nowrap;
+}
+
+.ac-delete-user .reset-password-3 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 159px;
+  white-space: nowrap;
+}
+
+.ac-delete-user .reset-password-4 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 243px;
+  white-space: nowrap;
+}
+
+.ac-delete-user .reset-password-5 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 327px;
+  white-space: nowrap;
+}
+
+.ac-delete-user .change-role {
+  height: 354px;
+  left: 1194px;
+  position: absolute;
+  top: 249px;
+  width: 93px;
+}
+
+.ac-delete-user .change-role-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: -9px;
+  white-space: nowrap;
+}
+
+.ac-delete-user .change-role-2 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 75px;
+  white-space: nowrap;
+}
+
+.ac-delete-user .change-role-3 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 159px;
+  white-space: nowrap;
+}
+
+.ac-delete-user .change-role-4 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 243px;
+  white-space: nowrap;
+}
+
+.ac-delete-user .change-role-5 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 327px;
+  white-space: nowrap;
+}
+
+.ac-delete-user .delete-member {
+  height: 354px;
+  left: 1342px;
+  position: absolute;
+  top: 249px;
+  width: 88px;
+}
+
+.ac-delete-user .delete-user {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: -9px;
+  white-space: nowrap;
+}
+
+.ac-delete-user .delete-user-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 75px;
+  white-space: nowrap;
+}
+
+.ac-delete-user .delete-user-2 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 159px;
+  white-space: nowrap;
+}
+
+.ac-delete-user .delete-user-3 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 243px;
+  white-space: nowrap;
+}
+
+.ac-delete-user .delete-user-4 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 327px;
+  white-space: nowrap;
+}
+
+.ac-delete-user .line-2-3 {
+  height: 1px;
+  left: 249px;
+  object-fit: cover;
+  position: absolute;
+  top: 629px;
+  width: 1223px;
+}
+
+.ac-delete-user .polygon-2 {
+  height: 11px;
+  left: 385px;
+  object-fit: cover;
+  position: absolute;
+  top: 191px;
+  width: 13px;
+}
+
+.ac-delete-user .polygon-3 {
+  height: 11px;
+  left: 738px;
+  object-fit: cover;
+  position: absolute;
+  top: 191px;
+  width: 13px;
+}
+
+.ac-delete-user .polygon-4 {
+  height: 11px;
+  left: 879px;
+  object-fit: cover;
+  position: absolute;
+  top: 191px;
+  width: 13px;
+}
+
+.ac-delete-user .group-70 {
+  height: 64px;
+  left: 254px;
+  position: absolute;
+  top: 76px;
+  width: 284px;
+}
+
+.ac-delete-user .search-members-from-the-list {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  opacity: 0.15;
+  position: absolute;
+  top: 34px;
+  white-space: nowrap;
+}
+
+.ac-delete-user .search-members {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: -9px;
+  white-space: nowrap;
+}
+
+.ac-delete-user .line-7 {
+  height: 15px;
+  left: 896px;
+  object-fit: cover;
+  position: absolute;
+  top: 334px;
+  width: 1px;
+}
+
+.ac-delete-user .line-8 {
+  height: 15px;
+  left: 896px;
+  object-fit: cover;
+  position: absolute;
+  top: 418px;
+  width: 1px;
+}
+
+.ac-delete-user .line-9 {
+  height: 15px;
+  left: 896px;
+  object-fit: cover;
+  position: absolute;
+  top: 502px;
+  width: 1px;
+}
+
+.ac-delete-user .line-10 {
+  height: 15px;
+  left: 896px;
+  object-fit: cover;
+  position: absolute;
+  top: 586px;
+  width: 1px;
+}
+
+.ac-delete-user .admin-console {
+  left: 252px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 38px;
+  white-space: nowrap;
+}
+
+.ac-delete-user .rectangle-44 {
+  height: 385px;
+  left: 991px;
+  object-fit: cover;
+  position: absolute;
+  top: 238px;
+  width: 446px;
+}
+
+.ac-delete-user .rectangle-45 {
+  height: 298px;
+  left: 901px;
+  object-fit: cover;
+  position: absolute;
+  top: 319px;
+  width: 39px;
+}
+
+.ac-delete-user .rectangle-48 {
+  height: 73px;
+  left: 1494px;
+  object-fit: cover;
+  position: absolute;
+  top: 92px;
+  width: 212px;
+}
+
+.ac-delete-user .path-35 {
+  height: 40px;
+  left: 249px;
+  object-fit: cover;
+  position: absolute;
+  top: 110px;
+  width: 1224px;
+}
+
+.ac-delete-user .overlap-group1 {
+  height: 44px;
+  left: 1507px;
+  position: absolute;
+  top: 108px;
+  width: 185px;
+}
+
+.ac-delete-user .invite-new-member {
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  white-space: nowrap;
+}
+
+.ac-delete-user .overlap-group-1 {
+  height: 44px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 185px;
+}
+
+.ac-delete-user .rectangle-19-1 {
+  height: 36px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 178px;
+}
+
+.ac-delete-user .path-25-1 {
+  height: 34px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 176px;
+}
+
+.ac-delete-user .group-230-1 {
+  height: 16px;
+  left: 1000px;
+  position: absolute;
+  top: 253px;
+  transform: rotate(75.00deg);
+  width: 16px;
+}
+
+.ac-delete-user .path-38 {
+  height: 19px;
+  left: -2px;
+  object-fit: cover;
+  position: absolute;
+  top: -2px;
+  transform: rotate(-75.00deg);
+  width: 19px;
+}
+
+.ac-delete-user .group-229-1 {
+  height: 16px;
+  left: 999px;
+  position: absolute;
+  top: 252px;
+  transform: rotate(75.00deg);
+  width: 16px;
+}
+
+.ac-delete-user .group-container {
+  height: 20px;
+  left: 997px;
+  position: absolute;
+  top: 333px;
+  width: 20px;
+}
+
+.ac-delete-user .group-230 {
+  height: 16px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  transform: rotate(75.00deg);
+  width: 16px;
+}
+
+.ac-delete-user .group-229 {
+  height: 16px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  transform: rotate(75.00deg);
+  width: 16px;
+}
+
+.ac-delete-user .group-container-1 {
+  height: 20px;
+  left: 997px;
+  position: absolute;
+  top: 415px;
+  width: 20px;
+}
+
+.ac-delete-user .group-container-2 {
+  height: 20px;
+  left: 997px;
+  position: absolute;
+  top: 500px;
+  width: 20px;
+}
+
+.ac-delete-user .group-container-3 {
+  height: 20px;
+  left: 997px;
+  position: absolute;
+  top: 584px;
+  width: 20px;
+}
+
+.ac-delete-user .overlap-group6 {
+  height: 19px;
+  left: 1168px;
+  position: absolute;
+  top: 249px;
+  width: 19px;
+}
+
+.ac-delete-user .group-236 {
+  background-image: url(../img/path-39-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.ac-delete-user .path-39 {
+  height: 19px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 19px;
+}
+
+.ac-delete-user .overlap-group7 {
+  height: 19px;
+  left: 1168px;
+  position: absolute;
+  top: 332px;
+  width: 19px;
+}
+
+.ac-delete-user .overlap-group8 {
+  height: 19px;
+  left: 1168px;
+  position: absolute;
+  top: 416px;
+  width: 19px;
+}
+
+.ac-delete-user .overlap-group9 {
+  height: 19px;
+  left: 1168px;
+  position: absolute;
+  top: 500px;
+  width: 19px;
+}
+
+.ac-delete-user .overlap-group10 {
+  height: 19px;
+  left: 1168px;
+  position: absolute;
+  top: 584px;
+  width: 19px;
+}
+
+.ac-delete-user .overlap-group11 {
+  height: 17px;
+  left: 1319px;
+  position: absolute;
+  top: 249px;
+  width: 17px;
+}
+
+.ac-delete-user .ellipse-6 {
+  background-color: var(--sunset-pearl);
+  border-radius: 7.5px;
+  height: 15px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 15px;
+}
+
+.ac-delete-user .group-242 {
+  background-image: url(../img/path-40-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 16px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 16px;
+}
+
+.ac-delete-user .path-41 {
+  height: 6px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 6px;
+}
+
+.ac-delete-user .overlap-group12 {
+  height: 17px;
+  left: 1319px;
+  position: absolute;
+  top: 333px;
+  width: 17px;
+}
+
+.ac-delete-user .overlap-group13 {
+  height: 17px;
+  left: 1319px;
+  position: absolute;
+  top: 417px;
+  width: 17px;
+}
+
+.ac-delete-user .overlap-group14 {
+  height: 17px;
+  left: 1319px;
+  position: absolute;
+  top: 501px;
+  width: 17px;
+}
+
+.ac-delete-user .overlap-group15 {
+  height: 17px;
+  left: 1319px;
+  position: absolute;
+  top: 585px;
+  width: 17px;
+}
+
+.ac-delete-user .overlap-group16 {
+  height: 21px;
+  left: 275px;
+  position: absolute;
+  top: 243px;
+  width: 21px;
+}
+
+.ac-delete-user .ellipse-2 {
+  background-color: var(--athens-gray);
+  border-radius: 4.56px;
+  height: 9px;
+  left: 5px;
+  position: absolute;
+  top: 0;
+  width: 9px;
+}
+
+.ac-delete-user .path-54 {
+  height: 10px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 19px;
+}
+
+.ac-delete-user .ellipse-3 {
+  border-radius: 4.56px;
+  height: 11px;
+  left: 5px;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.ac-delete-user .path-55 {
+  height: 12px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 21px;
+}
+
+.ac-delete-user .overlap-group17 {
+  height: 21px;
+  left: 275px;
+  position: absolute;
+  top: 323px;
+  width: 21px;
+}
+
+.ac-delete-user .overlap-group18 {
+  height: 21px;
+  left: 275px;
+  position: absolute;
+  top: 411px;
+  width: 21px;
+}
+
+.ac-delete-user .overlap-group19 {
+  height: 21px;
+  left: 275px;
+  position: absolute;
+  top: 491px;
+  width: 21px;
+}
+
+.ac-delete-user .overlap-group20 {
+  height: 21px;
+  left: 275px;
+  position: absolute;
+  top: 579px;
+  width: 21px;
+}
+
+.ac-delete-user .component-4-11 {
+  height: 153px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.ac-delete-user .overlap-group22 {
+  height: 154px;
+  position: relative;
+  width: 1921px;
+}
+
+.ac-delete-user .overlap-group-2 {
+  background-color: var(--white);
+  height: 154px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1921px;
+}
+
+.ac-delete-user .group-47 {
+  background-image: url(../img/mask-group-2-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 62px;
+  left: 139px;
+  position: relative;
+  top: 51px;
+  width: 279px;
+}
+
+.ac-delete-user .full-name {
+  left: 1700px;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  top: 72px;
+  white-space: nowrap;
+}
+
+.ac-delete-user .overlap-group1-1 {
+  height: 21px;
+  left: 1668px;
+  position: absolute;
+  top: 69px;
+  width: 21px;
+}
+
+.ac-delete-user .path-90 {
+  height: 20px;
+  left: 1578px;
+  object-fit: cover;
+  position: absolute;
+  top: 70px;
+  width: 20px;
+}
+
+.ac-delete-user .rectangle-64 {
+  background-color: var(--cloud-burst);
+  height: 1233px;
+  left: 0;
+  opacity: 0.45;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.ac-delete-user .overlap-group23 {
+  border-radius: 11px;
+  height: 361px;
+  left: 628px;
+  position: absolute;
+  top: 340px;
+  width: 665px;
+}
+
+.ac-delete-user .group-container-4 {
+  border-radius: 11px;
+  height: 361px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 665px;
+}
+
+.ac-delete-user .group-125 {
+  background-color: var(--white);
+  border-radius: 11px;
+  height: 361px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 665px;
+}
+
+.ac-delete-user .delete-user-5 {
+  left: 80px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 28px;
+  white-space: nowrap;
+}
+
+.ac-delete-user .overlap-group1-2 {
+  height: 51px;
+  left: 339px;
+  position: absolute;
+  top: 250px;
+  width: 137px;
+}
+
+.ac-delete-user .delete {
+  left: 44px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  white-space: nowrap;
+}
+
+.ac-delete-user .overlap-group {
+  height: 51px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 137px;
+}
+
+.ac-delete-user .rectangle-19 {
+  height: 41px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 128px;
+}
+
+.ac-delete-user .path-25 {
+  height: 39px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 126px;
+}
+
+.ac-delete-user .overlap-group2 {
+  height: 51px;
+  left: 189px;
+  position: absolute;
+  top: 250px;
+  width: 137px;
+}
+
+.ac-delete-user .cancel {
+  left: 43px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  white-space: nowrap;
+}
+
+.ac-delete-user .by-deleting-this-use {
+  height: 125px;
+  left: 80px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 71px;
+  width: 529px;
+}
+
+.ac-delete-user .span1 {
+  color: var(--cloud-burst);
+  font-family: var(--font-family-worksans-semibolditalic_italic);
+  font-size: var(--font-size-xl);
+  font-style: italic;
+  font-weight: 600;
+}

@@ -1,0 +1,1038 @@
+/* screen - admin-console */
+
+.admin-console {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 1080px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.admin-console .overlap-group23 {
+  height: 1101px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 1922px;
+}
+
+.admin-console .overlap-group21 {
+  height: 955px;
+  left: 1px;
+  position: absolute;
+  top: 146px;
+  width: 1920px;
+}
+
+.admin-console .rectangle-63 {
+  background: linear-gradient(107.34deg, rgba(126, 198, 176, 0.44) -13.73%, rgba(126, 198, 176, 0) 113.52%);
+  height: 946px;
+  left: 0;
+  position: absolute;
+  top: 9px;
+  width: 1920px;
+}
+
+.admin-console .rectangle-31 {
+  background-color: var(--white);
+  height: 944px;
+  left: 194px;
+  position: absolute;
+  top: 0;
+  width: 1526px;
+}
+
+.admin-console .place {
+  left: 335px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 177px;
+  white-space: nowrap;
+}
+
+.admin-console .status {
+  left: 682px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 177px;
+  white-space: nowrap;
+}
+
+.admin-console .place-1 {
+  left: 820px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 177px;
+  white-space: nowrap;
+}
+
+.admin-console .configurations {
+  left: 999px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 177px;
+  white-space: nowrap;
+}
+
+.admin-console .path-37 {
+  height: 1px;
+  left: 249px;
+  object-fit: cover;
+  position: absolute;
+  top: 216px;
+  width: 1223px;
+}
+
+.admin-console .name-lastname {
+  left: 335px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 223px;
+  white-space: nowrap;
+}
+
+.admin-console .namelastnamecompanyemailcom {
+  left: 335px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 254px;
+  white-space: nowrap;
+}
+
+.admin-console .admin {
+  left: 682px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 240px;
+  white-space: nowrap;
+}
+
+.admin-console .full-library {
+  left: 813px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 240px;
+  white-space: nowrap;
+}
+
+.admin-console .full-library-1 {
+  left: 813px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 324px;
+  white-space: nowrap;
+}
+
+.admin-console .limited {
+  left: 813px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 408px;
+  white-space: nowrap;
+}
+
+.admin-console .limited-1 {
+  left: 813px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 576px;
+  white-space: nowrap;
+}
+
+.admin-console .edit {
+  cursor: pointer;
+  left: 905px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 408px;
+  white-space: nowrap;
+}
+
+.admin-console .edit-1 {
+  cursor: pointer;
+  left: 905px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 324px;
+  white-space: nowrap;
+}
+
+.admin-console .edit-2 {
+  cursor: pointer;
+  left: 905px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 492px;
+  white-space: nowrap;
+}
+
+.admin-console .edit-3 {
+  cursor: pointer;
+  left: 905px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 576px;
+  white-space: nowrap;
+}
+
+.admin-console .full-library-2 {
+  left: 813px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 492px;
+  white-space: nowrap;
+}
+
+.admin-console .path-36 {
+  height: 1px;
+  left: 249px;
+  object-fit: cover;
+  position: absolute;
+  top: 293px;
+  width: 1223px;
+}
+
+.admin-console .name-lastname-1 {
+  left: 335px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 307px;
+  white-space: nowrap;
+}
+
+.admin-console .namelastnamecompanyemailcom-1 {
+  left: 335px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 338px;
+  white-space: nowrap;
+}
+
+.admin-console .user {
+  left: 682px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 324px;
+  white-space: nowrap;
+}
+
+.admin-console .line-2 {
+  height: 1px;
+  left: 249px;
+  object-fit: cover;
+  position: absolute;
+  top: 377px;
+  width: 1223px;
+}
+
+.admin-console .name-lastname-2 {
+  left: 335px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 391px;
+  white-space: nowrap;
+}
+
+.admin-console .namelastnamecompanyemailcom-2 {
+  left: 335px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 422px;
+  white-space: nowrap;
+}
+
+.admin-console .client {
+  left: 682px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 408px;
+  white-space: nowrap;
+}
+
+.admin-console .line-2-1 {
+  height: 1px;
+  left: 249px;
+  object-fit: cover;
+  position: absolute;
+  top: 461px;
+  width: 1223px;
+}
+
+.admin-console .name-lastname-3 {
+  left: 335px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 475px;
+  white-space: nowrap;
+}
+
+.admin-console .namelastnamecompanyemailcom-3 {
+  left: 335px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 506px;
+  white-space: nowrap;
+}
+
+.admin-console .user-1 {
+  left: 682px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 492px;
+  white-space: nowrap;
+}
+
+.admin-console .line-2-2 {
+  height: 1px;
+  left: 249px;
+  object-fit: cover;
+  position: absolute;
+  top: 545px;
+  width: 1223px;
+}
+
+.admin-console .name-lastname-4 {
+  left: 335px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 559px;
+  white-space: nowrap;
+}
+
+.admin-console .namelastnamecompanyemailcom-4 {
+  left: 335px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 590px;
+  white-space: nowrap;
+}
+
+.admin-console .client-1 {
+  left: 682px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 576px;
+  white-space: nowrap;
+}
+
+.admin-console .reset-password {
+  cursor: pointer;
+  height: 354px;
+  left: 1022px;
+  position: absolute;
+  top: 249px;
+  width: 118px;
+}
+
+.admin-console .reset-password-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: -9px;
+  white-space: nowrap;
+}
+
+.admin-console .reset-password-2 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 75px;
+  white-space: nowrap;
+}
+
+.admin-console .reset-password-3 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 159px;
+  white-space: nowrap;
+}
+
+.admin-console .reset-password-4 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 243px;
+  white-space: nowrap;
+}
+
+.admin-console .reset-password-5 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 327px;
+  white-space: nowrap;
+}
+
+.admin-console .change-role {
+  cursor: pointer;
+  height: 354px;
+  left: 1194px;
+  position: absolute;
+  top: 249px;
+  width: 93px;
+}
+
+.admin-console .change-role-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: -9px;
+  white-space: nowrap;
+}
+
+.admin-console .change-role-2 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 75px;
+  white-space: nowrap;
+}
+
+.admin-console .change-role-3 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 159px;
+  white-space: nowrap;
+}
+
+.admin-console .change-role-4 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 243px;
+  white-space: nowrap;
+}
+
+.admin-console .change-role-5 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 327px;
+  white-space: nowrap;
+}
+
+.admin-console .delete-member {
+  cursor: pointer;
+  height: 354px;
+  left: 1342px;
+  position: absolute;
+  top: 249px;
+  width: 88px;
+}
+
+.admin-console .delete-user {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: -9px;
+  white-space: nowrap;
+}
+
+.admin-console .delete-user-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 75px;
+  white-space: nowrap;
+}
+
+.admin-console .delete-user-2 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 159px;
+  white-space: nowrap;
+}
+
+.admin-console .delete-user-3 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 243px;
+  white-space: nowrap;
+}
+
+.admin-console .delete-user-4 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 327px;
+  white-space: nowrap;
+}
+
+.admin-console .line-2-3 {
+  height: 1px;
+  left: 249px;
+  object-fit: cover;
+  position: absolute;
+  top: 629px;
+  width: 1223px;
+}
+
+.admin-console .polygon-2 {
+  height: 11px;
+  left: 385px;
+  object-fit: cover;
+  position: absolute;
+  top: 191px;
+  width: 13px;
+}
+
+.admin-console .polygon-3 {
+  height: 11px;
+  left: 738px;
+  object-fit: cover;
+  position: absolute;
+  top: 191px;
+  width: 13px;
+}
+
+.admin-console .polygon-4 {
+  height: 11px;
+  left: 879px;
+  object-fit: cover;
+  position: absolute;
+  top: 191px;
+  width: 13px;
+}
+
+.admin-console .group-70 {
+  height: 64px;
+  left: 254px;
+  position: absolute;
+  top: 76px;
+  width: 284px;
+}
+
+.admin-console .search-members-from-the-list {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  opacity: 0.15;
+  position: absolute;
+  top: 34px;
+  white-space: nowrap;
+}
+
+.admin-console .search-members {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: -9px;
+  white-space: nowrap;
+}
+
+.admin-console .line-7 {
+  height: 15px;
+  left: 896px;
+  object-fit: cover;
+  position: absolute;
+  top: 334px;
+  width: 1px;
+}
+
+.admin-console .line-8 {
+  height: 15px;
+  left: 896px;
+  object-fit: cover;
+  position: absolute;
+  top: 418px;
+  width: 1px;
+}
+
+.admin-console .line-9 {
+  height: 15px;
+  left: 896px;
+  object-fit: cover;
+  position: absolute;
+  top: 502px;
+  width: 1px;
+}
+
+.admin-console .line-10 {
+  height: 15px;
+  left: 896px;
+  object-fit: cover;
+  position: absolute;
+  top: 586px;
+  width: 1px;
+}
+
+.admin-console .admin-console-1 {
+  left: 252px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 38px;
+  white-space: nowrap;
+}
+
+.admin-console .rectangle-44 {
+  height: 385px;
+  left: 991px;
+  object-fit: cover;
+  position: absolute;
+  top: 238px;
+  width: 446px;
+}
+
+.admin-console .rectangle-45 {
+  height: 298px;
+  left: 901px;
+  object-fit: cover;
+  position: absolute;
+  top: 319px;
+  width: 39px;
+}
+
+.admin-console .rectangle-48 {
+  height: 73px;
+  left: 1494px;
+  object-fit: cover;
+  position: absolute;
+  top: 92px;
+  width: 212px;
+}
+
+.admin-console .path-35 {
+  height: 40px;
+  left: 249px;
+  object-fit: cover;
+  position: absolute;
+  top: 110px;
+  width: 1224px;
+}
+
+.admin-console .overlap-group1 {
+  height: 44px;
+  left: 1507px;
+  position: absolute;
+  top: 108px;
+  width: 185px;
+}
+
+.admin-console .invite-new-member {
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  white-space: nowrap;
+}
+
+.admin-console .overlap-group {
+  height: 44px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 185px;
+}
+
+.admin-console .rectangle-19 {
+  height: 36px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 178px;
+}
+
+.admin-console .path-25 {
+  height: 34px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 176px;
+}
+
+.admin-console .group-230-1 {
+  height: 16px;
+  left: 1000px;
+  position: absolute;
+  top: 253px;
+  transform: rotate(75.00deg);
+  width: 16px;
+}
+
+.admin-console .path-38 {
+  height: 19px;
+  left: -2px;
+  object-fit: cover;
+  position: absolute;
+  top: -2px;
+  transform: rotate(-75.00deg);
+  width: 19px;
+}
+
+.admin-console .group-229-1 {
+  height: 16px;
+  left: 999px;
+  position: absolute;
+  top: 252px;
+  transform: rotate(75.00deg);
+  width: 16px;
+}
+
+.admin-console .group-container {
+  height: 20px;
+  left: 997px;
+  position: absolute;
+  top: 333px;
+  width: 20px;
+}
+
+.admin-console .group-230 {
+  height: 16px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  transform: rotate(75.00deg);
+  width: 16px;
+}
+
+.admin-console .group-229 {
+  height: 16px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  transform: rotate(75.00deg);
+  width: 16px;
+}
+
+.admin-console .group-container-1 {
+  height: 20px;
+  left: 997px;
+  position: absolute;
+  top: 415px;
+  width: 20px;
+}
+
+.admin-console .group-container-2 {
+  height: 20px;
+  left: 997px;
+  position: absolute;
+  top: 500px;
+  width: 20px;
+}
+
+.admin-console .group-container-3 {
+  height: 20px;
+  left: 997px;
+  position: absolute;
+  top: 584px;
+  width: 20px;
+}
+
+.admin-console .overlap-group6 {
+  height: 19px;
+  left: 1168px;
+  position: absolute;
+  top: 249px;
+  width: 19px;
+}
+
+.admin-console .group-236 {
+  background-image: url(../img/path-39-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.admin-console .path-39 {
+  height: 19px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 19px;
+}
+
+.admin-console .overlap-group7 {
+  height: 19px;
+  left: 1168px;
+  position: absolute;
+  top: 332px;
+  width: 19px;
+}
+
+.admin-console .overlap-group8 {
+  height: 19px;
+  left: 1168px;
+  position: absolute;
+  top: 416px;
+  width: 19px;
+}
+
+.admin-console .overlap-group9 {
+  height: 19px;
+  left: 1168px;
+  position: absolute;
+  top: 500px;
+  width: 19px;
+}
+
+.admin-console .overlap-group10 {
+  height: 19px;
+  left: 1168px;
+  position: absolute;
+  top: 584px;
+  width: 19px;
+}
+
+.admin-console .overlap-group11 {
+  height: 17px;
+  left: 1319px;
+  position: absolute;
+  top: 249px;
+  width: 17px;
+}
+
+.admin-console .ellipse-6 {
+  background-color: var(--sunset-pearl);
+  border-radius: 7.5px;
+  height: 15px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 15px;
+}
+
+.admin-console .group-242 {
+  background-image: url(../img/path-40-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 16px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 16px;
+}
+
+.admin-console .path-41 {
+  height: 6px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 6px;
+}
+
+.admin-console .overlap-group12 {
+  height: 17px;
+  left: 1319px;
+  position: absolute;
+  top: 333px;
+  width: 17px;
+}
+
+.admin-console .overlap-group13 {
+  height: 17px;
+  left: 1319px;
+  position: absolute;
+  top: 417px;
+  width: 17px;
+}
+
+.admin-console .overlap-group14 {
+  height: 17px;
+  left: 1319px;
+  position: absolute;
+  top: 501px;
+  width: 17px;
+}
+
+.admin-console .overlap-group15 {
+  height: 17px;
+  left: 1319px;
+  position: absolute;
+  top: 585px;
+  width: 17px;
+}
+
+.admin-console .overlap-group16 {
+  height: 21px;
+  left: 275px;
+  position: absolute;
+  top: 243px;
+  width: 21px;
+}
+
+.admin-console .ellipse-2 {
+  background-color: var(--athens-gray);
+  border-radius: 4.56px;
+  height: 9px;
+  left: 5px;
+  position: absolute;
+  top: 0;
+  width: 9px;
+}
+
+.admin-console .path-54 {
+  height: 10px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 19px;
+}
+
+.admin-console .ellipse-3 {
+  border-radius: 4.56px;
+  height: 11px;
+  left: 5px;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.admin-console .path-55 {
+  height: 12px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 21px;
+}
+
+.admin-console .overlap-group17 {
+  height: 21px;
+  left: 275px;
+  position: absolute;
+  top: 323px;
+  width: 21px;
+}
+
+.admin-console .overlap-group18 {
+  height: 21px;
+  left: 275px;
+  position: absolute;
+  top: 411px;
+  width: 21px;
+}
+
+.admin-console .overlap-group19 {
+  height: 21px;
+  left: 275px;
+  position: absolute;
+  top: 491px;
+  width: 21px;
+}
+
+.admin-console .overlap-group20 {
+  height: 21px;
+  left: 275px;
+  position: absolute;
+  top: 579px;
+  width: 21px;
+}
+
+.admin-console .component-4-7 {
+  height: 154px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1922px;
+}
+
+.admin-console .overlap-group22 {
+  height: 155px;
+  position: relative;
+  width: 1923px;
+}
+
+.admin-console .overlap-group-1 {
+  background-color: var(--white);
+  height: 155px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1923px;
+}
+
+.admin-console .group-47 {
+  background-image: url(../img/mask-group-2-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 62px;
+  left: 139px;
+  position: relative;
+  top: 51px;
+  width: 279px;
+}
+
+.admin-console .full-name {
+  left: 1702px;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  top: 73px;
+  white-space: nowrap;
+}
+
+.admin-console .overlap-group1-1 {
+  height: 21px;
+  left: 1669px;
+  position: absolute;
+  top: 70px;
+  width: 21px;
+}
+
+.admin-console .path-90 {
+  height: 20px;
+  left: 1579px;
+  object-fit: cover;
+  position: absolute;
+  top: 71px;
+  width: 20px;
+}

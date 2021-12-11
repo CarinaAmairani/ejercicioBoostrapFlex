@@ -1,0 +1,640 @@
+/* screen - upfl-access-list */
+
+.upfl-access-list {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 1080px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.upfl-access-list .overlap-group5 {
+  height: 1225px;
+  position: relative;
+  top: -5px;
+}
+
+.upfl-access-list .component-4-6 {
+  height: 153px;
+  left: 0;
+  position: absolute;
+  top: 5px;
+  width: 1920px;
+}
+
+.upfl-access-list .overlap-group2 {
+  height: 154px;
+  position: relative;
+  width: 1921px;
+}
+
+.upfl-access-list .overlap-group-1 {
+  background-color: var(--white);
+  height: 154px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1921px;
+}
+
+.upfl-access-list .group-47 {
+  background-image: url(../img/mask-group-2-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 62px;
+  left: 139px;
+  position: relative;
+  top: 51px;
+  width: 279px;
+}
+
+.upfl-access-list .full-name {
+  left: 1700px;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  top: 72px;
+  white-space: nowrap;
+}
+
+.upfl-access-list .overlap-group1 {
+  height: 21px;
+  left: 1668px;
+  position: absolute;
+  top: 69px;
+  width: 21px;
+}
+
+.upfl-access-list .ellipse-2 {
+  background-color: var(--athens-gray);
+  border-radius: 4.56px;
+  height: 9px;
+  left: 5px;
+  position: absolute;
+  top: 0;
+  width: 9px;
+}
+
+.upfl-access-list .path-54 {
+  height: 10px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 19px;
+}
+
+.upfl-access-list .ellipse-3 {
+  border-radius: 4.56px;
+  height: 11px;
+  left: 5px;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.upfl-access-list .path-55 {
+  height: 12px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 21px;
+}
+
+.upfl-access-list .path-90 {
+  height: 20px;
+  left: 1578px;
+  object-fit: cover;
+  position: absolute;
+  top: 70px;
+  width: 20px;
+}
+
+.upfl-access-list .rectangle-63 {
+  background: linear-gradient(107.34deg, rgba(126, 198, 176, 0.44) -13.73%, rgba(126, 198, 176, 0) 113.52%);
+  height: 946px;
+  left: 0;
+  position: absolute;
+  top: 139px;
+  width: 1920px;
+}
+
+.upfl-access-list .rectangle-31 {
+  background-color: var(--white);
+  height: 944px;
+  left: 197px;
+  position: absolute;
+  top: 141px;
+  width: 1526px;
+}
+
+.upfl-access-list .rectangle-47 {
+  height: 114px;
+  left: 1402px;
+  object-fit: cover;
+  position: absolute;
+  top: 456px;
+  width: 65px;
+}
+
+.upfl-access-list .group-649 {
+  height: 425px;
+  left: 394px;
+  position: absolute;
+  top: 188px;
+  width: 1082px;
+}
+
+.upfl-access-list .basics {
+  left: 74px;
+  letter-spacing: 0;
+  line-height: 56px;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.upfl-access-list .line-6 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 66px;
+  width: 1083px;
+}
+
+.upfl-access-list .photo {
+  left: 88px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 90px;
+  white-space: nowrap;
+}
+
+.upfl-access-list .edit {
+  left: 944px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 90px;
+  white-space: nowrap;
+}
+
+.upfl-access-list .delete {
+  left: 1014px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 90px;
+  white-space: nowrap;
+}
+
+.upfl-access-list .line-2 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 143px;
+  width: 1083px;
+}
+
+.upfl-access-list .place {
+  left: 88px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 164px;
+  white-space: nowrap;
+}
+
+.upfl-access-list .first-name-last-name {
+  left: 818px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 164px;
+  white-space: nowrap;
+}
+
+.upfl-access-list .edit-1 {
+  left: 1014px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 164px;
+  white-space: nowrap;
+}
+
+.upfl-access-list .line-2-1 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 217px;
+  width: 1083px;
+}
+
+.upfl-access-list .group-48 {
+  height: 46px;
+  left: 0;
+  position: absolute;
+  top: 245px;
+  width: 1082px;
+}
+
+.upfl-access-list .work-email {
+  left: 88px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: -7px;
+  white-space: nowrap;
+}
+
+.upfl-access-list .namelastnamecompanyemailcom {
+  left: 704px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: -7px;
+  white-space: nowrap;
+}
+
+.upfl-access-list .edit-2 {
+  left: 1014px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: -7px;
+  white-space: nowrap;
+}
+
+.upfl-access-list .line-2-2 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 46px;
+  width: 1083px;
+}
+
+.upfl-access-list .password {
+  left: 88px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 305px;
+  white-space: nowrap;
+}
+
+.upfl-access-list .text-1 {
+  left: 884px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 305px;
+  white-space: nowrap;
+}
+
+.upfl-access-list .place-1 {
+  left: 1014px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 305px;
+  white-space: nowrap;
+}
+
+.upfl-access-list .view {
+  left: 1014px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 372px;
+  white-space: nowrap;
+}
+
+.upfl-access-list .line-2-3 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 358px;
+  width: 1083px;
+}
+
+.upfl-access-list .sites-you-can-access {
+  left: 88px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 372px;
+  white-space: nowrap;
+}
+
+.upfl-access-list .all-sites {
+  left: 896px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 372px;
+  white-space: nowrap;
+}
+
+.upfl-access-list .line-2-4 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 425px;
+  width: 1083px;
+}
+
+.upfl-access-list .profile {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: -4px;
+  white-space: nowrap;
+}
+
+.upfl-access-list .overlap-group3 {
+  height: 21px;
+  left: 910px;
+  position: absolute;
+  top: 98px;
+  width: 21px;
+}
+
+.upfl-access-list .rectangle-32 {
+  background-color: var(--cloud-burst);
+  height: 1225px;
+  left: 0;
+  opacity: 0.45;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.upfl-access-list .overlap-group4 {
+  height: 731px;
+  left: 628px;
+  position: absolute;
+  top: 191px;
+  width: 665px;
+}
+
+.upfl-access-list .group-67 {
+  background-image: url(../img/path-3-1-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 731px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 665px;
+}
+
+.upfl-access-list .here-is-the-list-of {
+  height: 74px;
+  left: 80px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 69px;
+  width: 545px;
+}
+
+.upfl-access-list .path-33 {
+  height: 1px;
+  left: 82px;
+  object-fit: cover;
+  position: absolute;
+  top: 190px;
+  width: 503px;
+}
+
+.upfl-access-list .repeat-grid-3 {
+  height: 362px;
+  left: 82px;
+  position: absolute;
+  top: 202px;
+  width: 503px;
+}
+
+.upfl-access-list .x0 {
+  height: 23px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 502px;
+}
+
+.upfl-access-list .path-34 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 23px;
+  width: 503px;
+}
+
+.upfl-access-list .ec9991 {
+  left: 14px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: -11px;
+  white-space: nowrap;
+}
+
+.upfl-access-list .amazon-germany-template {
+  left: 142px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: -11px;
+  white-space: nowrap;
+}
+
+.upfl-access-list .remove {
+  left: 439px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: -11px;
+  white-space: nowrap;
+}
+
+.upfl-access-list .x1 {
+  height: 23px;
+  left: 0;
+  position: absolute;
+  top: 44px;
+  width: 502px;
+}
+
+.upfl-access-list .x2 {
+  height: 23px;
+  left: 0;
+  position: absolute;
+  top: 88px;
+  width: 502px;
+}
+
+.upfl-access-list .x3 {
+  height: 23px;
+  left: 0;
+  position: absolute;
+  top: 132px;
+  width: 502px;
+}
+
+.upfl-access-list .x4 {
+  height: 23px;
+  left: 0;
+  position: absolute;
+  top: 176px;
+  width: 502px;
+}
+
+.upfl-access-list .x5 {
+  height: 23px;
+  left: 0;
+  position: absolute;
+  top: 220px;
+  width: 502px;
+}
+
+.upfl-access-list .x6 {
+  height: 23px;
+  left: 0;
+  position: absolute;
+  top: 264px;
+  width: 502px;
+}
+
+.upfl-access-list .x7 {
+  height: 23px;
+  left: 0;
+  position: absolute;
+  top: 308px;
+  width: 502px;
+}
+
+.upfl-access-list .x8 {
+  height: 23px;
+  left: 0;
+  position: absolute;
+  top: 352px;
+  width: 502px;
+}
+
+.upfl-access-list .place-2 {
+  left: 226px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 157px;
+  white-space: nowrap;
+}
+
+.upfl-access-list .reference-id {
+  left: 97px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 157px;
+  white-space: nowrap;
+}
+
+.upfl-access-list .group-66 {
+  background-color: var(--white);
+  border: 0.1px solid var(--cloud-burst);
+  border-radius: 4px;
+  height: 373px;
+  left: 590px;
+  position: absolute;
+  top: 191px;
+  width: 7px;
+}
+
+.upfl-access-list .rectangle-38 {
+  background-color: var(--cloud-burst);
+  border-radius: 4px;
+  height: 239px;
+  opacity: 0.35;
+}
+
+.upfl-access-list .overlap-group1-1 {
+  height: 51px;
+  left: 339px;
+  position: absolute;
+  top: 617px;
+  width: 137px;
+}
+
+.upfl-access-list .update {
+  left: 43px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  white-space: nowrap;
+}
+
+.upfl-access-list .overlap-group {
+  height: 51px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 137px;
+}
+
+.upfl-access-list .rectangle-19 {
+  height: 41px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 128px;
+}
+
+.upfl-access-list .path-25 {
+  height: 39px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 126px;
+}
+
+.upfl-access-list .overlap-group2-1 {
+  height: 51px;
+  left: 189px;
+  position: absolute;
+  top: 617px;
+  width: 137px;
+}
+
+.upfl-access-list .cancel {
+  left: 43px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  white-space: nowrap;
+}
+
+.upfl-access-list .websites-access {
+  left: 80px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 35px;
+  white-space: nowrap;
+}

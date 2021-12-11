@@ -1,0 +1,374 @@
+/* screen - user-profile */
+
+.user-profile {
+  background-color: var(--white);
+  height: 1080px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.user-profile .overlap-group3 {
+  height: 1081px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 1921px;
+}
+
+.user-profile .rectangle-63 {
+  background: linear-gradient(107.34deg, rgba(126, 198, 176, 0.44) -13.73%, rgba(126, 198, 176, 0) 113.52%);
+  cursor: pointer;
+  height: 946px;
+  left: 1px;
+  position: absolute;
+  top: 135px;
+  width: 1920px;
+}
+
+.user-profile .rectangle-31 {
+  background-color: var(--white);
+  height: 944px;
+  left: 198px;
+  position: absolute;
+  top: 137px;
+  width: 1526px;
+}
+
+.user-profile .rectangle-47 {
+  height: 114px;
+  left: 1403px;
+  object-fit: cover;
+  position: absolute;
+  top: 484px;
+  width: 65px;
+}
+
+.user-profile .group-649 {
+  height: 425px;
+  left: 394px;
+  position: absolute;
+  top: 184px;
+  width: 1082px;
+}
+
+.user-profile .basics {
+  left: 74px;
+  letter-spacing: 0;
+  line-height: 56px;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.user-profile .line-6 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 66px;
+  width: 1083px;
+}
+
+.user-profile .photo {
+  left: 88px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 90px;
+  white-space: nowrap;
+}
+
+.user-profile .edit {
+  left: 944px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 90px;
+  white-space: nowrap;
+}
+
+.user-profile .delete {
+  left: 1014px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 90px;
+  white-space: nowrap;
+}
+
+.user-profile .line-2 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 143px;
+  width: 1083px;
+}
+
+.user-profile .place {
+  left: 88px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 164px;
+  white-space: nowrap;
+}
+
+.user-profile .first-name-last-name {
+  left: 818px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 164px;
+  white-space: nowrap;
+}
+
+.user-profile .edit-1 {
+  left: 1014px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 164px;
+  white-space: nowrap;
+}
+
+.user-profile .line-2-1 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 217px;
+  width: 1083px;
+}
+
+.user-profile .group-48 {
+  height: 46px;
+  left: 0;
+  position: absolute;
+  top: 245px;
+  width: 1082px;
+}
+
+.user-profile .work-email {
+  left: 88px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: -7px;
+  white-space: nowrap;
+}
+
+.user-profile .namelastnamecompanyemailcom {
+  left: 704px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: -7px;
+  white-space: nowrap;
+}
+
+.user-profile .edit-2 {
+  left: 1014px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: -7px;
+  white-space: nowrap;
+}
+
+.user-profile .line-2-2 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 46px;
+  width: 1083px;
+}
+
+.user-profile .password {
+  left: 88px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 305px;
+  white-space: nowrap;
+}
+
+.user-profile .text-3 {
+  left: 884px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 305px;
+  white-space: nowrap;
+}
+
+.user-profile .place-1 {
+  cursor: pointer;
+  left: 1014px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 305px;
+  white-space: nowrap;
+}
+
+.user-profile .view {
+  cursor: pointer;
+  left: 1014px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 372px;
+  white-space: nowrap;
+}
+
+.user-profile .line-2-3 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 358px;
+  width: 1083px;
+}
+
+.user-profile .sites-you-can-access {
+  left: 88px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 372px;
+  white-space: nowrap;
+}
+
+.user-profile .all-sites {
+  left: 896px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 372px;
+  white-space: nowrap;
+}
+
+.user-profile .line-2-4 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 425px;
+  width: 1083px;
+}
+
+.user-profile .profile {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: -4px;
+  white-space: nowrap;
+}
+
+.user-profile .overlap-group {
+  height: 21px;
+  left: 910px;
+  position: absolute;
+  top: 98px;
+  width: 21px;
+}
+
+.user-profile .ellipse-2 {
+  background-color: var(--athens-gray);
+  border-radius: 4.56px;
+  height: 9px;
+  left: 5px;
+  position: absolute;
+  top: 0;
+  width: 9px;
+}
+
+.user-profile .path-54 {
+  height: 10px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 19px;
+}
+
+.user-profile .ellipse-3 {
+  border-radius: 4.56px;
+  height: 11px;
+  left: 5px;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.user-profile .path-55 {
+  height: 12px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 21px;
+}
+
+.user-profile .component-4-4 {
+  height: 154px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1921px;
+}
+
+.user-profile .overlap-group2 {
+  height: 155px;
+  position: relative;
+  width: 1922px;
+}
+
+.user-profile .overlap-group-1 {
+  background-color: var(--white);
+  height: 155px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1922px;
+}
+
+.user-profile .group-47 {
+  background-image: url(../img/mask-group-2-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 62px;
+  left: 140px;
+  position: relative;
+  top: 52px;
+  width: 279px;
+}
+
+.user-profile .full-name {
+  left: 1702px;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  top: 73px;
+  white-space: nowrap;
+}
+
+.user-profile .overlap-group1 {
+  height: 21px;
+  left: 1669px;
+  position: absolute;
+  top: 70px;
+  width: 21px;
+}
+
+.user-profile .path-90 {
+  height: 20px;
+  left: 1579px;
+  object-fit: cover;
+  position: absolute;
+  top: 71px;
+  width: 20px;
+}

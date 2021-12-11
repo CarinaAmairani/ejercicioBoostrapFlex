@@ -1,0 +1,201 @@
+/* screen - log-in-tablet */
+
+.log-in-tablet {
+  background-color: var(--white);
+  height: 820px;
+  overflow: hidden;
+  position: relative;
+  width: 768px;
+}
+
+.log-in-tablet .background {
+  height: 94px;
+  left: -2px;
+  position: absolute;
+  top: -2px;
+  width: 770px;
+}
+
+.log-in-tablet .overlap-group {
+  background-color: var(--white);
+  height: 95px;
+  width: 771px;
+}
+
+.log-in-tablet .group-47 {
+  background-image: url(../img/mask-group-2-28@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 34px;
+  left: 37px;
+  position: relative;
+  top: 31px;
+  width: 152px;
+}
+
+.log-in-tablet .group-container {
+  height: 1006px;
+  left: -946px;
+  position: absolute;
+  top: 92px;
+  width: 2049px;
+}
+
+.log-in-tablet .group-1491 {
+  background-image: url(../img/captura-de-pantalla-2021-03-18-a-las-12-12-44-2-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1006px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 2049px;
+}
+
+.log-in-tablet .overlap-group1 {
+  background: linear-gradient(116.76deg, #000000 0%, rgba(31, 36, 72, 0) 63.02%);
+  background-color: var(--port-gore);
+  background-image: url(../img/uploads-files-2411109-red-hotel-2-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1006px;
+}
+
+.log-in-tablet .overlap-group2 {
+  background-color: var(--white);
+  border-radius: 9.1px;
+  height: 383px;
+  left: 1163px;
+  position: absolute;
+  top: 56px;
+  width: 333px;
+}
+
+.log-in-tablet .overlap-group3 {
+  height: 33px;
+  left: 32px;
+  position: absolute;
+  top: 99px;
+  width: 269px;
+}
+
+.log-in-tablet .email {
+  background-color: transparent;
+  border: 0;
+  height: 23px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 21px;
+  padding: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 265px;
+}
+
+.log-in-tablet .email::placeholder {
+  color: #262c5799;
+}
+
+.log-in-tablet .path-2 {
+  height: 22px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 269px;
+}
+
+.log-in-tablet .e-comm-library {
+  left: 82px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 20px;
+  white-space: nowrap;
+}
+
+.log-in-tablet .overlap-group4 {
+  height: 33px;
+  left: 32px;
+  position: absolute;
+  top: 170px;
+  width: 269px;
+}
+
+.log-in-tablet .password {
+  background-color: transparent;
+  border: 0;
+  height: 23px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 21px;
+  padding: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 265px;
+}
+
+.log-in-tablet .password::placeholder {
+  color: #262c5799;
+}
+
+.log-in-tablet .sign-in {
+  cursor: pointer;
+  height: 63px;
+  left: 76px;
+  position: absolute;
+  top: 260px;
+  transition: all 0.2s ease;
+  width: 179px;
+}
+
+.log-in-tablet .sign-in:hover {
+  transform: scale(1.01);
+}
+
+.log-in-tablet .overlap-group1-1 {
+  height: 68px;
+  left: -2px;
+  position: relative;
+  top: -2px;
+  width: 184px;
+}
+
+.log-in-tablet .sign-in-1 {
+  left: 51px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: 14px;
+  white-space: nowrap;
+}
+
+.log-in-tablet .overlap-group-1 {
+  height: 68px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 184px;
+}
+
+.log-in-tablet .rectangle-19 {
+  height: 55px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 172px;
+}
+
+.log-in-tablet .path-25 {
+  height: 52px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 169px;
+}

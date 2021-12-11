@@ -1,0 +1,551 @@
+/* screen - upfl-change-pswd */
+
+.upfl-change-pswd {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 1080px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.upfl-change-pswd .overlap-group5 {
+  height: 1092px;
+  position: relative;
+}
+
+.upfl-change-pswd .component-4-5 {
+  height: 153px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.upfl-change-pswd .overlap-group2 {
+  height: 154px;
+  position: relative;
+  width: 1921px;
+}
+
+.upfl-change-pswd .overlap-group-1 {
+  background-color: var(--white);
+  height: 154px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1921px;
+}
+
+.upfl-change-pswd .group-47 {
+  background-image: url(../img/mask-group-2-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 62px;
+  left: 139px;
+  position: relative;
+  top: 51px;
+  width: 279px;
+}
+
+.upfl-change-pswd .full-name {
+  left: 1700px;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  top: 72px;
+  white-space: nowrap;
+}
+
+.upfl-change-pswd .overlap-group1 {
+  height: 21px;
+  left: 1668px;
+  position: absolute;
+  top: 69px;
+  width: 21px;
+}
+
+.upfl-change-pswd .ellipse-2 {
+  background-color: var(--athens-gray);
+  border-radius: 4.56px;
+  height: 9px;
+  left: 5px;
+  position: absolute;
+  top: 0;
+  width: 9px;
+}
+
+.upfl-change-pswd .path-54 {
+  height: 10px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 19px;
+}
+
+.upfl-change-pswd .ellipse-3 {
+  border-radius: 4.56px;
+  height: 11px;
+  left: 5px;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.upfl-change-pswd .path-55 {
+  height: 12px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 21px;
+}
+
+.upfl-change-pswd .path-90 {
+  height: 20px;
+  left: 1578px;
+  object-fit: cover;
+  position: absolute;
+  top: 70px;
+  width: 20px;
+}
+
+.upfl-change-pswd .rectangle-63 {
+  background: linear-gradient(107.34deg, rgba(126, 198, 176, 0.44) -13.73%, rgba(126, 198, 176, 0) 113.52%);
+  height: 946px;
+  left: 0;
+  position: absolute;
+  top: 134px;
+  width: 1920px;
+}
+
+.upfl-change-pswd .rectangle-31 {
+  background-color: var(--white);
+  height: 944px;
+  left: 197px;
+  position: absolute;
+  top: 136px;
+  width: 1526px;
+}
+
+.upfl-change-pswd .rectangle-47 {
+  height: 114px;
+  left: 1402px;
+  object-fit: cover;
+  position: absolute;
+  top: 451px;
+  width: 65px;
+}
+
+.upfl-change-pswd .group-649 {
+  height: 425px;
+  left: 394px;
+  position: absolute;
+  top: 183px;
+  width: 1082px;
+}
+
+.upfl-change-pswd .basics {
+  left: 74px;
+  letter-spacing: 0;
+  line-height: 56px;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.upfl-change-pswd .line-6 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 66px;
+  width: 1083px;
+}
+
+.upfl-change-pswd .photo {
+  left: 88px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 90px;
+  white-space: nowrap;
+}
+
+.upfl-change-pswd .edit {
+  left: 944px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 90px;
+  white-space: nowrap;
+}
+
+.upfl-change-pswd .delete {
+  left: 1014px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 90px;
+  white-space: nowrap;
+}
+
+.upfl-change-pswd .line-2 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 143px;
+  width: 1083px;
+}
+
+.upfl-change-pswd .place {
+  left: 88px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 164px;
+  white-space: nowrap;
+}
+
+.upfl-change-pswd .first-name-last-name {
+  left: 818px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 164px;
+  white-space: nowrap;
+}
+
+.upfl-change-pswd .edit-1 {
+  left: 1014px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 164px;
+  white-space: nowrap;
+}
+
+.upfl-change-pswd .line-2-1 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 217px;
+  width: 1083px;
+}
+
+.upfl-change-pswd .group-48 {
+  height: 46px;
+  left: 0;
+  position: absolute;
+  top: 245px;
+  width: 1082px;
+}
+
+.upfl-change-pswd .work-email {
+  left: 88px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: -7px;
+  white-space: nowrap;
+}
+
+.upfl-change-pswd .namelastnamecompanyemailcom {
+  left: 704px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: -7px;
+  white-space: nowrap;
+}
+
+.upfl-change-pswd .edit-2 {
+  left: 1014px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: -7px;
+  white-space: nowrap;
+}
+
+.upfl-change-pswd .line-2-2 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 46px;
+  width: 1083px;
+}
+
+.upfl-change-pswd .password {
+  left: 88px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 305px;
+  white-space: nowrap;
+}
+
+.upfl-change-pswd .text-2 {
+  left: 884px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 305px;
+  white-space: nowrap;
+}
+
+.upfl-change-pswd .place-1 {
+  left: 1014px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 305px;
+  white-space: nowrap;
+}
+
+.upfl-change-pswd .view {
+  left: 1014px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 372px;
+  white-space: nowrap;
+}
+
+.upfl-change-pswd .line-2-3 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 358px;
+  width: 1083px;
+}
+
+.upfl-change-pswd .sites-you-can-access {
+  left: 88px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 372px;
+  white-space: nowrap;
+}
+
+.upfl-change-pswd .all-sites {
+  left: 896px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: 372px;
+  white-space: nowrap;
+}
+
+.upfl-change-pswd .line-2-4 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 425px;
+  width: 1083px;
+}
+
+.upfl-change-pswd .profile {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: -4px;
+  white-space: nowrap;
+}
+
+.upfl-change-pswd .overlap-group3 {
+  height: 21px;
+  left: 910px;
+  position: absolute;
+  top: 98px;
+  width: 21px;
+}
+
+.upfl-change-pswd .rectangle-32 {
+  background-color: var(--cloud-burst);
+  cursor: pointer;
+  height: 1092px;
+  left: 0;
+  opacity: 0.45;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.upfl-change-pswd .group-124 {
+  background-color: var(--white);
+  border-radius: 11px;
+  height: 485px;
+  left: 628px;
+  position: absolute;
+  top: 328px;
+  width: 665px;
+}
+
+.upfl-change-pswd .overlap-group1-1 {
+  height: 51px;
+  left: 336px;
+  position: absolute;
+  top: 378px;
+  width: 137px;
+}
+
+.upfl-change-pswd .preview {
+  left: 39px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  white-space: nowrap;
+}
+
+.upfl-change-pswd .overlap-group {
+  height: 51px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 137px;
+}
+
+.upfl-change-pswd .rectangle-19 {
+  height: 41px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 128px;
+}
+
+.upfl-change-pswd .path-25 {
+  height: 39px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 126px;
+}
+
+.upfl-change-pswd .overlap-group2-1 {
+  height: 51px;
+  left: 186px;
+  position: absolute;
+  top: 378px;
+  width: 137px;
+}
+
+.upfl-change-pswd .copy-link {
+  left: 35px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  white-space: nowrap;
+}
+
+.upfl-change-pswd .overlap-group4 {
+  height: 299px;
+  left: 79px;
+  position: absolute;
+  top: 35px;
+  width: 508px;
+}
+
+.upfl-change-pswd .overlap-group3-1 {
+  height: 299px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 507px;
+}
+
+.upfl-change-pswd .group-52 {
+  height: 299px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 506px;
+}
+
+.upfl-change-pswd .change-password {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  position: absolute;
+  top: -7px;
+  white-space: nowrap;
+}
+
+.upfl-change-pswd .use-8-or-more-charac {
+  height: 33px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 266px;
+  width: 449px;
+}
+
+.upfl-change-pswd .new-password {
+  left: 2px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  opacity: 0.25;
+  position: absolute;
+  top: 132px;
+  white-space: nowrap;
+}
+
+.upfl-change-pswd .path-32 {
+  height: 34px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 64px;
+  width: 505px;
+}
+
+.upfl-change-pswd .repeat-new-password {
+  left: 1px;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  opacity: 0.25;
+  position: absolute;
+  top: 210px;
+  white-space: nowrap;
+}
+
+.upfl-change-pswd .current-password {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  opacity: 0.25;
+  position: absolute;
+  top: 58px;
+  white-space: nowrap;
+}
+
+.upfl-change-pswd .path-27 {
+  height: 34px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 215px;
+  width: 505px;
+}
+
+.upfl-change-pswd .path-31 {
+  height: 34px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 136px;
+  width: 505px;
+}
